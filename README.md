@@ -1,2 +1,1 @@
-# rivelino
-instamod
+"[rivelino_ofc"]
